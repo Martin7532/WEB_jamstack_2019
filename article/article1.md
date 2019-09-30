@@ -1,3 +1,3 @@
-{
-    name: "article"
-}
++++
+name = "article"
++++
